@@ -1,5 +1,5 @@
 # regex_search_for_postcode_data
-This project attempts to solve the pain point of extracting branch office information from a 100+ postcode word file.
+This project attempts to solve the pain point of extracting branch office information from a 100+ pages of postcode.txt file.
 
 The file regex_search_postcode.py have two functions that search for regex pattern in a text format or list.
 
